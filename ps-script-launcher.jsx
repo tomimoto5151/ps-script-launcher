@@ -28,8 +28,8 @@ scriptsList.preferredSize.height = 200;
 var btnGroup = win.add("group");
 btnGroup.orientation = "row";
 btnGroup.alignment = "center";
-var runBtn = btnGroup.add("button", undefined, "実行");
 var cancelBtn = btnGroup.add("button", undefined, "キャンセル");
+var runBtn = btnGroup.add("button", undefined, "実行");
 
 // スクリプトリストを更新
 function updateScriptsList() {
