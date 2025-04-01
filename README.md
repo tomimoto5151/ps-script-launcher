@@ -2,32 +2,31 @@
 
 [![Software License](https://img.shields.io/badge/license-MIT-brightgreen.svg)](LICENSE)
 
-A simple script launcher for Photoshop that lists and executes scripts from the "scripts" folder in the same directory.
+同階層にあるscriptsフォルダ内に配置したスクリプトをリストアップして実行できます
 
-## 🚀 Features
+## 🚀 主な機能
 
-- 📋 Lists all scripts in the "scripts" folder
-- ▶️ Execute scripts with one click
-- 📁 Automatically creates a "scripts" folder if it doesn't exist
-- 🔄 Clean and simple user interface
+* 「scripts」フォルダ内のすべてのスクリプトを一覧表示します
+* 一覧から直接スクリプトを実行できます
+* 「scripts」フォルダが存在しない場合は自動的に作成します
 
-## 💻 Requirements
+
+## 💻 要件
 
 - Photoshop 2025
 
-## 🔧 Installation
+## 🔧 セットアップ
 
-1. Download script-launcher.jsx
-2. Create a "scripts" folder in the same directory (or it will be created automatically)
-3. Place your JSX scripts in the "scripts" folder
+1. 本ページのReleasesからスクリプトをダウンロードし、任意の場所に保存します
+2. Photoshopを起動します
+3. メニューからファイル＞スクリプト＞参照と進みスクリプト選択してを実行します
 
-## 📱 Usage
+## 📱 使い方
 
-1. Launch Photoshop
-2. Go to File > Scripts > Browse and select "script-launcher.jsx"
-3. Select a script from the list and click "Run"
-4. For frequent use, consider recording it in an Action
+1. スクリプトを実行します
+2. ポップアップのリストから実行したいスクリプトを選択して実行ボタンをクリックして実行します
+3. アクションに1つ登録しておくと、スクリプトライフが豊かになるでしょう
 
-## 📞 Contact
+## 📞 コンタクト
 
 - Discord: #tomimoto5151
